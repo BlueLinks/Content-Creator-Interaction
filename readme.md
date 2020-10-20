@@ -4,7 +4,7 @@ This project aims not to produce a complete and comprehensive graph of the inter
 
 ## [main.py](main.py)
 
-This is the main script of the project, run this to produce the graph stored in Graph.png from [interactions.csv](interactionscsv)
+This is the main script of the project, run this to produce the graph stored in Graph.png from [interactions.csv](interactionscsv).
 
 ## [interactions.csv](interactions.csv)
 
@@ -19,5 +19,8 @@ The order in which creators are listed doesn't matter and neither does the amoun
 ## Graph.png
 
 Here is where the graph produced after running [main.py](main.py) is stored.
+<<<<<<< HEAD
 
 ![Screenshot](ExampleGraph.png)
+=======
+>>>>>>> 2ce0e0adf5d0d45ee5829cd8f82618d1760512c9
