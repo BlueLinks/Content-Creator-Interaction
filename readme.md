@@ -1,10 +1,10 @@
 # Content Creator Interaction Graphing
 
-This project aims not to produce a complete and comprehensive graph of the interaction between notable online content creators but just something I producded for fun when trying to find the degrees of seperation between [Limmy](https://www.twitch.tv/limmy) and [Pokimane](https://www.twitch.tv/pokimane)
+This project aims not to produce a complete and comprehensive graph of the interaction between notable online content creators but just something I producded for fun when trying to find the degrees of seperation between [Limmy](https://www.twitch.tv/limmy) and [Pokimane](https://www.twitch.tv/pokimane).
 
 ## [main.py](main.py)
 
-This is the main script of the project, run this to produce the graph stored in Graph.png from [interactions.csv](interactionscsv)
+This is the main script of the project, run this to produce the graph stored in Graph.png from [interactions.csv](interactionscsv).
 
 ## [interactions.csv](interactions.csv)
 
@@ -18,4 +18,4 @@ The order in which creators are listed doesn't matter and neither does the amoun
 
 ## Graph.png
 
-Here is where the graph produced after running [main.py](main.py) is stored
+Here is where the graph produced after running [main.py](main.py) is stored.
